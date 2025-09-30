@@ -32,4 +32,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## About Me
 
-Hi there! I'm **Lisa Udechukwu**. I am a Data Quality Analyst learning more about other data roles. I enjoy learning! 
+Hi there! I'm **Lisa Udechukwu**. I am a Data Quality Analyst learning more about other data roles. Enjoy! 
